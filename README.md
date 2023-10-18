@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Xjarlie/Xjarlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Charlie! I’m a 17-year-old passionate programmer: I build both the frontend and backend of all kinds of apps and programs, but I’m especially interested in delving into lower level protocols and network infrastructure - which has often led me to attempt my own version of popular protocols (see [my ongoing sycamore project](https://github.com/xjarlie/sycamore)).
+
+I'm spending most of my free time at the moment designing a 2D platformer game in the Godot Engine with a friend - it's still in early development, but there'll be a repo as soon as it actually has any code. I'm also working on learning Rust to complement my knowledge of JavaScript with (slightly) more low-level understanding.
